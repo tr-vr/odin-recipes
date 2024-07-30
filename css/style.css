@@ -6,3 +6,17 @@ h1 {
     background-color: azure;
     text-align: center;
 }
+
+.recipes {
+    font-size: 28px;
+    color: whitesmoke;
+    background-color: black;
+}
+
+h5 {
+    color: burlywood;
+}
+
+li {
+    font-size: 20px;
+}
